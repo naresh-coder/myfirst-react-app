@@ -75,5 +75,3 @@ class App extends Component {
 }
 
 export default App;
-//<Person click={this.swithHandler.bind(this, 'D Naresh!!!!!!')} name={this.state.persons[0].name} age={this.state.persons[0].age} />
-//<Person click={this.swithHandler.bind(this, 'D varun !!!!!!')} name={this.state.persons[1].name} age={this.state.persons[1].age} />
